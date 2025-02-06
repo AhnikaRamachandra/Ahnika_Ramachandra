@@ -11,7 +11,7 @@ function App() {
   return (
     <>
    <div className="flex justify-center items-center h-screen">
-  <div className=" w-[50%] h-full">
+  <div className=" md:ml-0 ml-3 md:mr-0 mr-3 md:w-[50%] h-full">
    <Navbar/>
    <Project/>
    <Experience/>
